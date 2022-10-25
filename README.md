@@ -14,7 +14,7 @@
 
   ## Installation
 
-  git clone git@github.com:LardexTheLarge/Code-Refactor-Horiseon.git
+  `git clone git@github.com:LardexTheLarge/Code-Refactor-Horiseon.git`
 
   ## Usage
 
